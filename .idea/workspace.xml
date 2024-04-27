@@ -4,34 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31b282ed-ed9b-4332-9901-5b7d931ccf13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utilities/ReadPropertyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utilities/ReadTextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utilities/WrieteTextFIle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utilities/WriteCSVFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Writefile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/object.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/basicprogramms/FetchAllWebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/basicprogramms/OpenBrowsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/basicprogramms/RelativeLocatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/BasicAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/BrowserOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/DropdownListHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/IframeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/PrintAllLinksOnPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/PrintPerticularSectionLinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/PtintToPDF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/WebTableHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/WindowsTabsHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/selectAllCheckboxes.java" afterDir="false" />
+    <list default="true" id="31b282ed-ed9b-4332-9901-5b7d931ccf13" name="Changes" comment="First comment">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devtoolprotocol/BlockNetworkRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devtoolprotocol/CaptureConsoleLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devtoolprotocol/CaptureRequestHeaderAndResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devtoolprotocol/HandleSSLCertificate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devtoolprotocol/MockGEOLocations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devtoolprotocol/NetwrokSpeedManupulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devtoolprotocol/OverrideTimezoneValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/devtoolprotocol/SimulateDeviceView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/CaptureElementCordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/HandleAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/HandleGraphAndSVG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/HandleTabsAndPopUP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/HandleiFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/JavaScriptEcecutorCodeInject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/JquerySliderHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/KeyboardOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/MouseHoverHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/MultipleiFramesHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/ResizableComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/webelementhandle/ShadowDomElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +43,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "manojithapeqp"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manojithapeqp/Selenium4basics.git",
+    "accountId": "faae6782-0708-48d2-8341-e2abac0d0ae1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -63,17 +70,35 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.BasicAuthentication.executor": "Run",
+    "TestNG.BlockNetworkRequest.executor": "Run",
     "TestNG.BrowserOptions.executor": "Run",
+    "TestNG.CaptureConsoleLogs.executor": "Run",
+    "TestNG.CaptureElementCordinates.executor": "Run",
+    "TestNG.CaptureRequestHeaderAndResponse.executor": "Run",
     "TestNG.DropdownListHandle.executor": "Run",
     "TestNG.FetchAllWebElements.executor": "Run",
+    "TestNG.HandleAlert.executor": "Run",
+    "TestNG.HandleGraphAndSVG.executor": "Run",
+    "TestNG.HandleSSLCertificate.executor": "Run",
+    "TestNG.HandleiFrame.executor": "Run",
     "TestNG.IframeExample.executor": "Run",
+    "TestNG.JquerySliderHandle.executor": "Run",
+    "TestNG.KeyboardOperation.executor": "Run",
+    "TestNG.MockGEOLocations.executor": "Run",
+    "TestNG.MouseHoverHandle.executor": "Run",
+    "TestNG.MultipleiFramesHandle.executor": "Run",
+    "TestNG.NetwrokSpeedManupulation.executor": "Run",
     "TestNG.OpenBrowsers.executor": "Run",
+    "TestNG.OverrideTimezoneValues.executor": "Run",
     "TestNG.PrintAllLinksOnPage.executor": "Run",
     "TestNG.PrintPerticularSectionLinks.executor": "Run",
     "TestNG.PtintToPDF.executor": "Run",
     "TestNG.ReadPropertyFile.executor": "Run",
     "TestNG.ReadTextFile.executor": "Run",
     "TestNG.RelativeLocatorTest.executor": "Run",
+    "TestNG.ResizableComponent.executor": "Run",
+    "TestNG.ShadowDomElement.executor": "Run",
+    "TestNG.SimulateDeviceView.executor": "Run",
     "TestNG.Unnamed (1).executor": "Run",
     "TestNG.Unnamed.executor": "Run",
     "TestNG.WebTableHandle.executor": "Run",
@@ -180,7 +205,20 @@
       <option name="presentableId" value="Default" />
       <updated>1713570907890</updated>
     </task>
+    <task id="LOCAL-00001" summary="First comment">
+      <option name="closed" value="true" />
+      <created>1714053379596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714053379598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="First comment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
